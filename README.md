@@ -3,7 +3,7 @@
  <div>
   <a href="https://github.com/carlosapjunior">
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=CarlosApJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosApJunior&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosApJunior&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <a href="https://www.instagram.com/carlos_apjunior/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://t.me/carlosapjunior" target="_blank"><img src="https://img.shields.io/badge/-telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
